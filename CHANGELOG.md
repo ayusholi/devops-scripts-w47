@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- use dependency injection pattern
-- Updated: 2026-11-17T14:00:01.401Z
+- add contributing guidelines
+- Updated: 2026-11-23T14:00:01.116Z
