@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- add contributing guidelines
-- Updated: 2026-11-23T14:00:01.116Z
+- improve code readability and structure
+- Updated: 2026-11-24T14:00:01.175Z
